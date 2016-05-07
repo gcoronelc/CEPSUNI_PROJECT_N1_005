@@ -1,0 +1,3 @@
+Realizar el EDT para la planificación
+de un viaje de turismo al cuzco.
+
